@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **IT-Security, Deep Learning, IT-Networking and Programming**
 
-- 🌱 I’m currently learning **Tensorflow, Java, Python**
+- 🌱 I’m currently learning **Tensorflow, Java, TCP/IP**
 
 - 👨‍💻 All of my projects are available at [soufiane.de](https://www.soufianeb.de)
 
