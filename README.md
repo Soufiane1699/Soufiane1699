@@ -11,7 +11,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/soufianeb1607" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="soufianeb1607" height="30" width="40" /></a>
+<a href="https://twitter.com/@soufy_soufiane" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="soufianeb1607" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://linkedin.com/in/soufiane-barhmouni" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://linkedin.com/in/soufiane-barhmouni" height="30" width="40" /></a>
 <a href="https://www.instagram.com/soufiane_b_1/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/soufiane_b_1/" height="30" width="40" /></a>
 <a href="https://medium.com/@soufianeb14" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@soufianeb14" height="30" width="40" /></a>
