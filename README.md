@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/soufianeb1607" target="blank"><img src="https://img.shields.io/twitter/follow/soufianeb1607?logo=twitter&style=for-the-badge" alt="soufianeb1607" /></a> </p>
 
-- 🔭 I’m currently working on **Deep Learning, Networking**
+- 🔭 I’m currently working on **Deep Learning, IT-Networking and Programming**
 
 - 🌱 I’m currently learning **Tensorflow, Java, Python**
 
