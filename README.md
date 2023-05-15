@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Soufiane</h1>
-<h3 align="center">A Techie from Munich</h3>
+<h3 align="center">From Munich</h3>
 
 <p align="left"> <a href="https://twitter.com/@soufy_soufiane" target="blank"><img src="https://img.shields.io/twitter/follow/soufianeb1607?logo=twitter&style=for-the-badge" alt="soufianeb1607" /></a> </p>
 
