@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Soufiane</h1>
 <h3 align="center">From Munich</h3>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=soufiane1699&show_icons=true&locale=en" alt="soufiane1699" /></p>
+
 <p align="left"> <a href="https://twitter.com/@soufy_soufiane" target="blank"><img src="https://img.shields.io/twitter/follow/soufianeb1607?logo=twitter&style=for-the-badge" alt="soufianeb1607" /></a> </p>
 
 - 🔭 I’m currently working on **IT-Security, Deep Learning, IT-Networking and Programming**
@@ -22,6 +24,6 @@
 
 <!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=soufiane1699&show_icons=true&locale=en&layout=compact" alt="soufiane1699" /></p> -->
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=soufiane1699&show_icons=true&locale=en" alt="soufiane1699" /></p>
+
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=soufiane1699&" alt="soufiane1699" /></p>
